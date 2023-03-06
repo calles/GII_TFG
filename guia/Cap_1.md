@@ -26,13 +26,13 @@ La justificación de un proyecto de investigación expone las razones que motiva
 
 ## Estructura del trabajo:
 - Definición de tareas
-1. TA- Planteamiento del problema.
-2. TB. Investigación.
-3. TC. Análisis. 
-4. TD. Diseño.
-5. TE. Implementación.
-6. TF. Creación de la interfaz gráfica
-7. TG. Valoración del resultado y Pruebas.
-8. TH. Puesta en marcha y Despliegue.
+1. Planteamiento del problema.
+2. Investigación.
+3. Análisis. 
+4. Diseño.
+5. Implementación.
+6. Creación de la interfaz gráfica
+7. Valoración del resultado y Pruebas.
+8. Puesta en marcha y Despliegue.
 
 - Herramientas (Software/hardware)
