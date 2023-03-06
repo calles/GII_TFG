@@ -25,7 +25,7 @@ En otro contexto, si la tesis se enfoca en un problema de salud pública, los pr
 ## Justificación:
 La justificación de un proyecto de investigación expone las razones que motivaron la realización de dicho trabajo. Se trata de la sección en la que se busca destacar la relevancia de la investigación que se presentará en el texto para un contexto determinado, ya sea académico, laboral, institucional, social.
 
-## Solucón de la propuesta:
+## Solución de la propuesta:
 La solución de una propuesta de tesis se refiere a la respuesta propuesta a la pregunta de investigación planteada en la propuesta de tesis. En otras palabras, es la forma en que el estudiante propone abordar y resolver la pregunta o problema de investigación que se plantea en su tesis.
 
 Es importante destacar que la solución propuesta no necesariamente tiene que ser la solución definitiva, ya que la investigación en sí misma puede arrojar resultados inesperados o plantear nuevas preguntas que requieren una solución diferente. La solución propuesta es simplemente una respuesta inicial a la pregunta de investigación y debe ser vista como un trabajo en progreso que puede evolucionar a lo largo del proceso de investigación.
