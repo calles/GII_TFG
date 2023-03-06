@@ -25,7 +25,7 @@ La justificación de un proyecto de investigación expone las razones que motiva
 - Especificos
 
 ## Estructura del trabajo:
-- Definición de tareas:
+### Definición de tareas:
 ***
 1. Planteamiento del problema.
 ***
@@ -42,14 +42,11 @@ La justificación de un proyecto de investigación expone las razones que motiva
 7. Valoración del resultado y Pruebas.
 ***
 8. Puesta en marcha y Despliegue.
-
-- Herramientas:
-
 ***
 
+### Herramientas:
+***
 Software
-
 ***
 Hardware
-
 ***
