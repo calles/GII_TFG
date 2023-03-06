@@ -36,18 +36,7 @@ La solución de una propuesta de tesis se refiere a la respuesta propuesta a la 
 - General
 - Especificos
 
-## Estructura del trabajo:
-### Definición de tareas:
-1. Planteamiento del problema.
-2. Investigación.
-3. Análisis. 
-4. Diseño.
-5. Implementación.
-6. Creación de la interfaz gráfica
-7. Valoración del resultado y pruebas.
-8. Puesta en marcha y despliegue.
-
-### Herramientas:
+## Herramientas:
 
 ***
 Software
