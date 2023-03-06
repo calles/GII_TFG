@@ -38,5 +38,9 @@ La justificación de un proyecto de investigación expone las razones que motiva
 
 - Herramientas:
 
-⋅⋅* Software
-⋅⋅* Hardware
+Software
+
+---
+Hardware
+
+***
