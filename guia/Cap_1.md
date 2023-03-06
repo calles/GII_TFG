@@ -11,7 +11,7 @@ Se trata de un paso fundamental en todo proceso de investigación y desarrollo q
 
 Todo proyecto de investigación debe comenzar con una fase de estudio, en la que los investigadores analizan cuál es la situación del tema del que se parte, antes de pretender obtener resultados en el proyecto. Esta fase inicial se denomina tradicionalmente estado del arte.
 
-## Situación problemática:
+## Situación problemática o del escenario:
 La situación problemática es un concepto clave en el proceso de investigación, particularmente en la formulación de la pregunta de investigación y en la definición del tema de la tesis. Se refiere a una cuestión o problema real o potencial en un campo de estudio o en la sociedad en general que el estudiante de investigación desea abordar en su tesis.
 
 La situación problemática es un punto de partida para la investigación y se utiliza para definir la pregunta de investigación. En general, la situación problemática debe ser lo suficientemente específica para ser investigable, pero también lo suficientemente amplia para tener relevancia y significado más allá de la tesis en sí.
