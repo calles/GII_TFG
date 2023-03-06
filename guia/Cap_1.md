@@ -3,6 +3,9 @@
 ## Introducción:
 La introducción es una de las secciones principales de un artículo de investigación. En esta sección, los árbitros, editores y lectores pueden averiguar de qué se trata el estudio, qué motivó al autor para llevar a cabo el estudio y por qué el tema de la investigación es importante. La introducción también proporciona información básica relevante y pone el estudio en contexto.
 
+## Glosario:
+Definición de palabras tecnicas para contextualizar el trabajo de fin de grado.
+
 ## Estado del arte:
 Se trata de un paso fundamental en todo proceso de investigación y desarrollo que sirve para demostrar la novedad de los resultados de una investigación o proyecto. En la industria, abarca todo el conjunto de conocimientos y el grado más alto que se ha conseguido hasta la fecha sobre el tema, método, tecnología o ingeniería de materiales sobre el que se investiga o se innova.
 
@@ -31,15 +34,17 @@ La solución de una propuesta de tesis se refiere a la respuesta propuesta a la 
 > Es importante destacar que la solución propuesta no necesariamente tiene que ser la solución definitiva, ya que la investigación en sí misma puede arrojar resultados inesperados o plantear nuevas preguntas que requieren una solución diferente. La solución propuesta es simplemente una respuesta inicial a la pregunta de investigación y debe ser vista como un trabajo en progreso que puede evolucionar a lo largo del proceso de investigación.
 
 ## Aportaciones del sistema:
+¿Qué aportaciones se espera que brinde el sistema? 
 
 ## Objetivos:
 - General
 - Especificos
 
 ## Herramientas:
-
 ***
 Software
 ***
 Hardware
 ***
+
+
