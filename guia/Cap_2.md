@@ -3,8 +3,10 @@
 ## Requisitos y Requerimientos
 
 ### Identidficación y definición de requerimientos
+...
 
 ### Requerimientos del usuario
+...
 
 ### Requeriminetos funcionales
 Expresan la naturaleza del funcionamiento del sistema (cómo interacciona el sistema con su entorno y cuáles van a ser su estado y funcionamiento).
