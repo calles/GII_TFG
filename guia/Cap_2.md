@@ -18,6 +18,7 @@ Restricciones en el espacio de posibles soluciones:
 NOTA: La distinción entre requerimientos funcionales y no funcionales no siempre resulta evidente (p.ej. la seguridad puede interpretarse inicialmente como un requerimiento no funcional al principio pero, tras elaborarlo, conduce a la aparición de requerimientos funcionales como la necesidad de autentificar a los usuarios del sistema).
 
 ### Diagrama de requerimientos
+...
 
 
 #### Pautas
