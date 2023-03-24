@@ -52,3 +52,6 @@ El diagrama de contexto nos permite ver de una manera más general todo lo que s
 
 ![Figura 7. Contexto de casos de uso](https://user-images.githubusercontent.com/22343642/226904785-9d476899-8937-4813-91b5-935f02f828db.png)
 
+***
+[Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d#cd1d79dbac4146888d6f57438e934567)
+***
