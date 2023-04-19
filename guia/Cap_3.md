@@ -28,6 +28,16 @@ Mediante los diagramas de colaboración se identifican las clases modelo, vista 
   <em>Diagrama de colaboración del caso de uso Login</em>
 </div>
 
+### Análisis de clases
+Una vez analizados los casos de uso, lo siguiente es revisar los diagramas de colaboración obtenidos e ir localizando con qué clases se relaciona cada una de las clases y qué mensajes se lanzan entre ellas.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22343642/233092767-55950517-1e80-41bc-9b7d-ac031f1b32eb.png" />
+</p>
+<div align="center">
+  <em>Diagrama de clases de la clase LoginController y sus relaciones</em>
+</div>
+
 ***
 [Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d?pvs=4#0a1fbda23e2e4946ae7ae12bcd724a9d)
 ***
