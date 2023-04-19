@@ -55,7 +55,7 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
 <div align="center">
   <em>Figura 4. Casos de uso relacionados con la gestión de los mecánicos</em>
 </div>
-
+\newpage 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22343642/226904360-b42041c6-2a80-4321-9337-f16c13f75d60.png" />
 </p>
