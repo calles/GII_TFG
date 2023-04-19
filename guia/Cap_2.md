@@ -21,16 +21,17 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
 </div>
 
 ## Requisitos
-
-En este capítulo se detalla cómo se ha gestionado el ámbito del proyecto. El ámbito se establece a través del modelo de casos de uso. Mediante este modelo se representan los requisitos funcionales y sirve para establecer un contrato común entre el cliente, los desarrolladores y los usuarios sobre lo que el sistema debería de hacer y cómo se debería de utilizar. También sirve para dotar a los desarrolladores de una mejor comprensión de lo que debería de hacer el sistema, establecer sus límites, y proveer las bases para la estimación de costes y tiempo en la gestión del proyecto. A través del modelo de casos de uso se representan los requisitos funcionales.
+Mediante este modelo se representan los requisitos funcionales y sirve para establecer un contrato común entre el cliente, los desarrolladores y los usuarios sobre lo que el sistema debería de hacer y cómo se debería de utilizar. También sirve para dotar a los desarrolladores de una mejor comprensión de lo que debería de hacer el sistema, establecer sus límites, y proveer las bases para la estimación de costes y tiempo en la gestión del proyecto. A través del modelo de casos de uso se representan los requisitos funcionales.
 
 El modelo de casos de uso se ha obtenido realizando las actividades recomendadas por el proceso de desarrollo RUP, mediante las cuales se han ido generando diferentes artefactos que juntos conforman el modelo de casos de uso. Las actividades realizadas en esta disciplina han sido:
 
-1. Encontrar actores y casos de uso
-2. Priorizar casos de uso
-3. Detallar casos de uso
-4. Estructurar el modelo de casos de uso
-5. Prototipar interfaz de usuario.
+|||
+-|-
+Encontrar Actores y Casos de Uso
+Priorizar Casos de Uso
+Detallar Casos de Uso
+Prototipar Casos de Uso
+Estructurar la descripción de los Casos de Uso
 
 ### Actores y casos de uso identificados
 
