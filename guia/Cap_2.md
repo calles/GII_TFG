@@ -21,7 +21,6 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
 </div>
 
 ## Disciplina de requisitos
-<div align="center">
 <table>
 	<tbody>
 		<tr>
@@ -41,8 +40,6 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
 		</tr>
 	</tbody>
 </table>
-</div>
-
 
 ### Actores y casos de uso identificados
 
