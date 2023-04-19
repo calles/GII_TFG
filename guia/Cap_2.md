@@ -90,7 +90,7 @@ Mediante estos diagramas de estados se describe el intercambio de información e
   <em>Figura 8. Especificación caso de uso login</em>
 </div>
 
-</br>
+</br></br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22343642/233085922-7fbc26ff-40dd-4d37-95d3-9289989bdf53.png" />
