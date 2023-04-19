@@ -57,14 +57,19 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
   <em>Figura 4. Casos de uso relacionados con la gestión de los mecánicos</em>
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22343642/226904360-b42041c6-2a80-4321-9337-f16c13f75d60.png" />
+</p>
+<div align="center">
+  <em>Figura 5. Casos de uso relacionados con la gestión de los vehiculos</em>
+</div>
 
-* Figura 5. Casos de uso relacionados con la gestión de los vehiculos.
-
-![Figura 5. Casos de uso relacionados con la gestión de los vehiculos.](https://user-images.githubusercontent.com/22343642/226904360-b42041c6-2a80-4321-9337-f16c13f75d60.png)
-
-* Figura 6. Casos de uso relacionados con la gestión de los clientes.
-
-![Figura 6. Casos de uso relacionados con la gestión de los clientes.](https://user-images.githubusercontent.com/22343642/226904390-0b18d1d4-28ac-448d-92ed-3fc428f754d0.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22343642/226904390-0b18d1d4-28ac-448d-92ed-3fc428f754d0.png" />
+</p>
+<div align="center">
+  <em>Figura 6. Casos de uso relacionados con la gestión de los clientes</em>
+</div>
 
 ### Diagrama de Contexto
 
