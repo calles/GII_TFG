@@ -43,13 +43,20 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
 
 ### Actores y casos de uso identificados
 
-* Figura 3. Casos de uso relacionados con la gestión de las intervenciones.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22343642/226904201-b239a26c-31e6-4403-af75-c3126b204f74.png" />
+</p>
+<div align="center">
+  <em>Figura 3. Casos de uso relacionados con la gestión de las intervenciones</em>
+</div>
 
-![Figura 3. Casos de uso relacionados con la gestión de las intervenciones.](https://user-images.githubusercontent.com/22343642/226904201-b239a26c-31e6-4403-af75-c3126b204f74.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22343642/226904323-03dd3e03-68f8-4f6c-951f-dfad54957255.png" />
+</p>
+<div align="center">
+  <em>Figura 4. Casos de uso relacionados con la gestión de los mecánicos</em>
+</div>
 
-* Figura 4. Casos de uso relacionados con la gestión de los mecánicos
-
-![Figura 4. Casos de uso relacionados con la gestión de los mecánicos.](https://user-images.githubusercontent.com/22343642/226904323-03dd3e03-68f8-4f6c-951f-dfad54957255.png)
 
 * Figura 5. Casos de uso relacionados con la gestión de los vehiculos.
 
