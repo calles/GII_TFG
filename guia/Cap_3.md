@@ -10,7 +10,7 @@ En este punto se organiza el sistema software, en clases modelo vista y controla
 
 * Diagrama de paquetes del análisis de arquitectura.
 
-[Diagrama de paquetes del análisis de arquitectura](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d#cd1d79dbac4146888d6f57438e934567)
+![Diagrama de paquetes del análisis de arquitectura](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d#cd1d79dbac4146888d6f57438e934567)
 
 
 
