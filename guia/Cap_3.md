@@ -50,7 +50,6 @@ Los objetivos del diseño de la arquitectura son identificar clases arquitectón
 
 #### Capa de presentación, Capa de negocio y Capa de datos
 * [Estructura MVC](https://user-images.githubusercontent.com/22343642/233102062-85cb6b2e-47b7-466f-b1ba-d77ac3b97bf7.png)
-</br>
 * [Ejemplo de diagrama de paquetes](https://user-images.githubusercontent.com/22343642/233102671-107bc8a8-1537-4940-b878-dbbce6525578.png)
 
 ***
