@@ -21,13 +21,16 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
 </div>
 
 ## Disciplina de requisitos
-|||
+<div align="center">
+  |||
 -|-
 Encontrar Actores y Casos de Uso
 Priorizar Casos de Uso
 Detallar Casos de Uso
 Prototipar Casos de Uso
 Estructurar la descripción de los Casos de Uso
+</div>
+
 
 ### Actores y casos de uso identificados
 
