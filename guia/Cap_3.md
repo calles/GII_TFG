@@ -5,7 +5,7 @@ En las actividades del análisis, se refinan y estructuran los casos de uso espe
 
 ### Análisis de la arquitectura
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/22343642/233075604-dfb711bb-a84e-486c-b519-c609e1d73ba7.png)" />
+  <img src="[i](https://user-images.githubusercontent.com/22343642/233075604-dfb711bb-a84e-486c-b519-c609e1d73ba7.png)" />
 </p>
 ***<p>Diagrama de paquetes del análisis de arquitectura</p>***
 
