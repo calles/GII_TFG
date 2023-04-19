@@ -26,7 +26,7 @@ Mediante este modelo se representan los requisitos funcionales y sirve para esta
 El modelo de casos de uso se ha obtenido realizando las actividades recomendadas por el proceso de desarrollo RUP, mediante las cuales se han ido generando diferentes artefactos que juntos conforman el modelo de casos de uso. Las actividades realizadas en esta disciplina han sido:
 
 |||
--|-
+-|
 Encontrar Actores y Casos de Uso
 Priorizar Casos de Uso
 Detallar Casos de Uso
