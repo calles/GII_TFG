@@ -4,7 +4,7 @@
 En las actividades del análisis, se refinan y estructuran los casos de uso especificados. El propósito de las actividades del análisis es conseguir una comprensión más precisa de los requisitos, evitar redundancias e inconsistencias. En el análisis los requisitos se empiezan a traducir en funcionalidades del sistema y clases
 
 ### Análisis de la arquitectura
-* Diagrama de paquetes del análisis de arquitectura.
+***<p style="text-align: center;">Text with basic formatting applied</p>***Diagrama de paquetes del análisis de arquitectura.
 ![Diagrama de paquetes del análisis de arquitectura](https://user-images.githubusercontent.com/22343642/233075604-dfb711bb-a84e-486c-b519-c609e1d73ba7.png)
 
 
