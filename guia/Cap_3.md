@@ -19,7 +19,14 @@ En las actividades del análisis, se refinan y estructuran los casos de uso espe
 </div>
 
 ### Análisis de casos de uso
- Se identifican cuales son las responsabilidades más importantes de esas clases y mediante qué métodos se relacionan entre ellas.
+Mediante los diagramas de colaboración se identifican las clases modelo, vista y controlador, esenciales para llevar a cabo el caso de uso concreto. Se identifican cuales son las responsabilidades más importantes de esas clases y mediante qué métodos se relacionan entre ellas
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22343642/233089268-a49b67b2-0838-4ba0-a62d-6dee0f10bbc2.png" />
+</p>
+<div align="center">
+  <em>Diagrama de colaboración del caso de uso Login</em>
+</div>
 
 ***
 [Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d?pvs=4#0a1fbda23e2e4946ae7ae12bcd724a9d)
