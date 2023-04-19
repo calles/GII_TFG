@@ -3,6 +3,8 @@
 ## Modelo de dominio
 En el modelo de dominio se representan los conceptos más significativos del contexto del sistema como son los objetos de negocio, objetos del mundo real a los que el sistema tiene que hacer seguimiento y eventos que ocurren u ocurrirán en el contexto de nuestro sistema. El modelo de dominio tiene como objetivo asegurar que se comprende el contexto en el que se tiene que desarrollar el software y establecer un vocabulario común entre los stakeholders del proyecto, cliente, los usuarios y desarrolladores, entre otros.
 
+\newpage
+
 ### Ejemplo
 Para obtener el modelo de dominio del taller de reparaciones de vehículos, se ha hecho una reunión con el responsable del taller mecánico, donde se detalló el funcionamiento del mismo, cómo se registran los trabajos que hacen los mecánicos y qué vocabulario usan en sus labores diarias.
 
@@ -55,7 +57,7 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
 <div align="center">
   <em>Figura 4. Casos de uso relacionados con la gestión de los mecánicos</em>
 </div>
-\newpage 
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22343642/226904360-b42041c6-2a80-4321-9337-f16c13f75d60.png" />
 </p>
