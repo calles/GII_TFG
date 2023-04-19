@@ -3,8 +3,6 @@
 ## Modelo de dominio
 En el modelo de dominio se representan los conceptos más significativos del contexto del sistema como son los objetos de negocio, objetos del mundo real a los que el sistema tiene que hacer seguimiento y eventos que ocurren u ocurrirán en el contexto de nuestro sistema. El modelo de dominio tiene como objetivo asegurar que se comprende el contexto en el que se tiene que desarrollar el software y establecer un vocabulario común entre los stakeholders del proyecto, cliente, los usuarios y desarrolladores, entre otros.
 
-\newpage
-
 ### Ejemplo
 Para obtener el modelo de dominio del taller de reparaciones de vehículos, se ha hecho una reunión con el responsable del taller mecánico, donde se detalló el funcionamiento del mismo, cómo se registran los trabajos que hacen los mecánicos y qué vocabulario usan en sus labores diarias.
 
@@ -92,12 +90,16 @@ Mediante estos diagramas de estados se describe el intercambio de información e
   <em>Figura 8. Especificación caso de uso login</em>
 </div>
 
+</br>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22343642/233085922-7fbc26ff-40dd-4d37-95d3-9289989bdf53.png" />
 </p>
 <div align="center">
   <em>Figura 9. Especificación de caso de uso createIntervention</em>
 </div>
+
+</br>
 
 ### Prototipos de interfaz de usuario
 A continuación, se presentan los prototipos de las interfaces de usuario que permiten el intercambio de información que se detalla en los diagramas de especificación de caso de uso vistos anteriormente. En los prototipos se detallan los elementos de interfaz de usuario más representativos para llevar a cabo los casos de uso.
