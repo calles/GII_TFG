@@ -48,14 +48,13 @@ Los objetivos del diseño de la arquitectura son identificar clases arquitectón
   <em>Aplicación web multipágina, cliente y servidor esctructurado por capas</em>
 </div>
 
-#### Capa de presentación
-Es la que ve el usuario (también se la denomina «capa de usuario»), presenta el sistema al usuario, le comunica la información y captura la información del usuario en un mínimo de proceso (realiza un filtrado previo para comprobar que no hay errores de formato). También es conocida como interfaz gráfica y debe tener la característica de ser «amigable» (entendible y fácil de usar) para el usuario. Esta capa se comunica únicamente con la capa de negocio.
+#### Capa de presentación, Capa de negocio y Capa de datos
 
-#### Capa de negocio
-Es donde residen los programas que se ejecutan, se reciben las peticiones del usuario y se envían las respuestas tras el proceso. Se denomina capa de negocio (e incluso de lógica del negocio) porque es aquí donde se establecen todas las reglas que deben cumplirse. Esta capa se comunica con la capa de presentación, para recibir las solicitudes y presentar los resultados, y con la capa de datos, para solicitar al gestor de base de datos almacenar o recuperar datos de él. También se consideran aquí los programas de aplicación.
+![Estructura MVC](https://user-images.githubusercontent.com/22343642/233102062-85cb6b2e-47b7-466f-b1ba-d77ac3b97bf7.png)
+![Ejemplo de diagrama de paquetes](https://user-images.githubusercontent.com/22343642/233102671-107bc8a8-1537-4940-b878-dbbce6525578.png)
 
-#### Capa de datos
-Es donde residen los datos y es la encargada de acceder a los mismos. Está formada por uno o más gestores de bases de datos que realizan todo el almacenamiento de datos, reciben solicitudes de almacenamiento o recuperación de información desde la capa de negocio.
+
+
 
 ***
 [Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d?pvs=4#0a1fbda23e2e4946ae7ae12bcd724a9d)
