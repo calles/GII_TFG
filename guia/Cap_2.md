@@ -22,13 +22,25 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
 
 ## Disciplina de requisitos
 <div align="center">
-  |||
--|-
-Encontrar Actores y Casos de Uso
-Priorizar Casos de Uso
-Detallar Casos de Uso
-Prototipar Casos de Uso
-Estructurar la descripción de los Casos de Uso
+<table>
+	<tbody>
+		<tr>
+			<td>Cell 1x1</td>
+		</tr>
+		<tr>
+			<td>Cell 1x2</td>
+		</tr>
+		<tr>
+			<td>Cell 1x3</td>
+		</tr>
+		<tr>
+			<td>Cell 1x4</td>
+		</tr>
+		<tr>
+			<td>Cell 1x5</td>
+		</tr>
+	</tbody>
+</table>
 </div>
 
 
