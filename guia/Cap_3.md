@@ -38,6 +38,8 @@ Una vez analizados los casos de uso, lo siguiente es revisar los diagramas de co
   <em>Diagrama de clases de la clase LoginController y sus relaciones</em>
 </div>
 
+### Diseño de la arquitectura
+
 ***
 [Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d?pvs=4#0a1fbda23e2e4946ae7ae12bcd724a9d)
 ***
