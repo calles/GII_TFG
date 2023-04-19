@@ -1,10 +1,12 @@
-# Capítulo 2
+# Capítulo 3
 
-## Modelo de dominio
-En el modelo de dominio se representan los conceptos más significativos del contexto del sistema como son los objetos de negocio, objetos del mundo real a los que el sistema tiene que hacer seguimiento y eventos que ocurren u ocurrirán en el contexto de nuestro sistema. El modelo de dominio tiene como objetivo asegurar que se comprende el contexto en el que se tiene que desarrollar el software y establecer un vocabulario común entre los stakeholders del proyecto, cliente, los usuarios y desarrolladores, entre otros.
+## Análisis y Diseño
+En las actividades del análisis, se refinan y estructuran los casos de uso especificados. El propósito de las actividades del análisis es conseguir una comprensión más precisa de los requisitos, evitar redundancias e inconsistencias. En el análisis los requisitos se empiezan a traducir en funcionalidades del sistema y clases
+
+### Análisis de la arquitectura
 
 ### Ejemplo
-Para obtener el modelo de dominio del taller de reparaciones de vehículos, se ha hecho una reunión con el responsable del taller mecánico, donde se detalló el funcionamiento del mismo, cómo se registran los trabajos que hacen los mecánicos y qué vocabulario usan en sus labores diarias. Se ha representado el modelo de dominio mediante 2 diagramas.
+En este punto se organiza el sistema software, en clases modelo vista y controlador, se pintan algunas de las relaciones más importantes 
 
 * Figura 1. Modelo de dominio junto a los objetos de dominio y sus relaciones.
 
