@@ -5,7 +5,7 @@ Repositorio de la asignatura **TFG** del [Grado de Ingeniería Informática](htt
 * 📚 [Guía](guia/readme.md)
 
 ## Herramientas
-* [GOOGLE](https://workspace.google.com/intl/es)
+* [Google](https://workspace.google.com/intl/es)
 
 ## Generalidades
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
