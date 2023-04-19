@@ -20,12 +20,8 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
   <em>Figura 2. iagrama de estados por los que pasa una intervención</em>
 </div>
 
-## Requisitos
-Mediante este modelo se representan los requisitos funcionales y sirve para establecer un contrato común entre el cliente, los desarrolladores y los usuarios sobre lo que el sistema debería de hacer y cómo se debería de utilizar. También sirve para dotar a los desarrolladores de una mejor comprensión de lo que debería de hacer el sistema, establecer sus límites, y proveer las bases para la estimación de costes y tiempo en la gestión del proyecto. A través del modelo de casos de uso se representan los requisitos funcionales.
-
-El modelo de casos de uso se ha obtenido realizando las actividades recomendadas por el proceso de desarrollo RUP, mediante las cuales se han ido generando diferentes artefactos que juntos conforman el modelo de casos de uso. Las actividades realizadas en esta disciplina han sido:
-
-|||
+## Disciplina de requisitos
+||
 -|-
 Encontrar Actores y Casos de Uso
 Priorizar Casos de Uso
