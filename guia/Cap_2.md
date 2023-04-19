@@ -25,19 +25,19 @@ Para obtener el modelo de dominio del taller de reparaciones de vehículos, se h
 <table>
 	<tbody>
 		<tr>
-			<td>Cell 1x1</td>
+			<td>Encontrar Actores y Casos de Uso</td>
 		</tr>
 		<tr>
-			<td>Cell 1x2</td>
+			<td>Priorizar Casos de Uso</td>
 		</tr>
 		<tr>
-			<td>Cell 1x3</td>
+			<td>Detallar Casos de Uso</td>
 		</tr>
 		<tr>
-			<td>Cell 1x4</td>
+			<td>Prototipar Casos de Uso</td>
 		</tr>
 		<tr>
-			<td>Cell 1x5</td>
+			<td>Estructurar la descripción de los Casos de Uso</td>
 		</tr>
 	</tbody>
 </table>
