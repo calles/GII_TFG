@@ -1,59 +1,27 @@
-# Capítulo 3
+# Capítulo 4
 
-## Análisis y Diseño
+## Descripción de la solución propuesta
 En las actividades del análisis, se refinan y estructuran los casos de uso especificados. El propósito de las actividades del análisis es conseguir una comprensión más precisa de los requisitos, evitar redundancias e inconsistencias. En el análisis los requisitos se empiezan a traducir en funcionalidades del sistema y clases
 
-### Análisis de la arquitectura
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22343642/233075604-dfb711bb-a84e-486c-b519-c609e1d73ba7.png" />
-</p>
-<div align="center">
-  <em>Diagrama de la arquitectura MVC</em>
-</div>
+### 5.1. Ecosistema
+Un ecosistema software es un espacio de trabajo donde se integra un conjunto de herramientas que interactúan y funcionan como una unidad de colaboración para las diferentes fases del desarrollo software como son la Gestión, Requisitos, Análisis, Diseño, Programación, Pruebas y Despliegue
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22343642/233076401-e08a7baa-1f9e-4ec9-8df0-eab7e5e2b3a2.png" />
-</p>
-<div align="center">
-  <em>Diagrama de clases de MVC</em>
-</div>
+### 5.2. Planificación
+Se ha organizado el trabajo con un tablero kanban con tres columnas (do, doing y done) que representan el flujo que sigue cada actividad/issue que se realiza para este proyecto.
 
-### Análisis de casos de uso
-Mediante los diagramas de colaboración se identifican las clases modelo, vista y controlador, esenciales para llevar a cabo el caso de uso concreto. Se identifican cuales son las responsabilidades más importantes de esas clases y mediante qué métodos se relacionan entre ellas
+### 5.3. Implementación del código (Desarrollo)
+Descripción de todo el desarrollo con fragmentos de código.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22343642/233089268-a49b67b2-0838-4ba0-a62d-6dee0f10bbc2.png" />
-</p>
-<div align="center">
-  <em>Diagrama de colaboración del caso de uso Login</em>
-</div>
+### 5.4. Dependencias, librerias, Framework.
+</br>
 
-### Análisis de clases
-Una vez analizados los casos de uso, lo siguiente es revisar los diagramas de colaboración obtenidos e ir localizando con qué clases se relaciona cada una de las clases y qué mensajes se lanzan entre ellas.
+### 5.5. Flujo
+Distribución del esfuerzo en función del Flujo de trabajo y la iteración concreta
+ejemplo: [Imagen](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fefa21697-8f98-48e9-bb03-81646b59103f%2FUntitled.png?id=142ab426-3280-4bd2-8c95-23440bf2871d&table=block&spaceId=cdeb8df6-b4c8-469b-bee6-7b6f3da84ef8&width=1610&userId=68984eb9-9340-4cae-9909-01bb0d444a45&cache=v2) 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22343642/233092767-55950517-1e80-41bc-9b7d-ac031f1b32eb.png" />
-</p>
-<div align="center">
-  <em>Diagrama de clases de la clase LoginController y sus relaciones</em>
-</div>
-
-### Diseño de la arquitectura
-Los objetivos del diseño de la arquitectura son identificar clases arquitectónicas significativas de diseño, subsistemas específicos de la aplicación e identificar el software y las tecnologías en las que se va a apoyar. Este software pueden ser servidores, navegadores web o componentes software, entre otros.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22343642/233095433-436c3695-4b3d-4aa5-b129-3b66937a85af.png" />
-</p>
-<div align="center">
-  <em>Aplicación web multipágina, cliente y servidor esctructurado por capas</em>
-</div>
-
-#### Capa de presentación, Capa de negocio y Capa de datos
-* [Estructura MVC](https://user-images.githubusercontent.com/22343642/233102062-85cb6b2e-47b7-466f-b1ba-d77ac3b97bf7.png)
-* [Ejemplo de diagrama de paquetes](https://user-images.githubusercontent.com/22343642/233102671-107bc8a8-1537-4940-b878-dbbce6525578.png)
-
-### Diseñar casos de uso
+### 5.6. Pruebas
+En este capítulo vamos a describir cómo se han organizado e implementado los diferentes tipos de pruebas o tests de la aplicación.
 
 ***
-[Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d?pvs=4#0a1fbda23e2e4946ae7ae12bcd724a9d)
+[Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d?pvs=4#80ac52de0cf04f1980929ea660a4ff47)
 ***
