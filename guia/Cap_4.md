@@ -13,10 +13,9 @@ Se ha organizado el trabajo con un tablero kanban con tres columnas (do, doing y
 Descripción de todo el desarrollo con fragmentos de código.
 
 ### 5.4. Dependencias, librerias, Framework.
-</br>
 
 ### 5.5. Flujo
-Distribución del esfuerzo en función del Flujo de trabajo y la iteración concreta
+Distribución del esfuerzo en función del Flujo de trabajo y la iteración concreta. </br>
 ejemplo: [Imagen](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fefa21697-8f98-48e9-bb03-81646b59103f%2FUntitled.png?id=142ab426-3280-4bd2-8c95-23440bf2871d&table=block&spaceId=cdeb8df6-b4c8-469b-bee6-7b6f3da84ef8&width=1610&userId=68984eb9-9340-4cae-9909-01bb0d444a45&cache=v2) 
 
 ### 5.6. Pruebas
