@@ -13,6 +13,7 @@ Se ha organizado el trabajo con un tablero kanban con tres columnas (do, doing y
 Descripción de todo el desarrollo con fragmentos de código.
 
 ### 5.4. Dependencias, librerias, Framework.
+Descripción de librerias, depedencias, framework o recursos externos.
 
 ### 5.5. Flujo
 Distribución del esfuerzo en función del Flujo de trabajo y la iteración concreta. </br>
