@@ -1,6 +1,6 @@
 # Capítulo 3
 
-## 5 Conclusiones
+# 5. Conclusiones
 En esta sección, se presentan los resultados y hallazgos principales del estudio o investigación de manera resumida y concisa. Las conclusiones deben basarse en los datos y análisis presentados anteriormente en el trabajo, y deben responder a los objetivos y preguntas de investigación planteadas. Es importante que las conclusiones sean claras y estén respaldadas por evidencia sólida.
 
 ## 5.1 Discusión de Resultados
