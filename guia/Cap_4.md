@@ -13,7 +13,7 @@ ejemplo: [Imagen](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a
 Se ha organizado el trabajo con un tablero kanban con tres columnas (do, doing y done) que representan el flujo que sigue cada actividad/issue que se realiza para este proyecto.
 
 En esta sección, se detalla el plan para la implementación y desarrollo de la solución propuesta. Esto puede incluir una descripción de las etapas del proyecto, los plazos, las actividades clave, los recursos necesarios y los responsables de cada tarea. La planificación puede abordar aspectos como el análisis de requerimientos, el diseño, la programación, las pruebas y la entrega de la solución. <br/>
-ejemplo: [Imagen](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d#80ac52de0cf04f1980929ea660a4ff47) 
+ejemplo: [Imagen](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F70e109e0-d1ee-416a-b744-f7b82e7c2428%2FUntitled.png?id=087ca7ac-598b-4248-b0a9-a3d7da93f7b9&table=block&spaceId=cdeb8df6-b4c8-469b-bee6-7b6f3da84ef8&width=2000&userId=68984eb9-9340-4cae-9909-01bb0d444a45&cache=v2) 
 
 ### 5.3. Implementación del código (Desarrollo)
 Descripción de todo el desarrollo con fragmentos de código.
