@@ -1,59 +1,23 @@
 # Capítulo 3
 
-## Análisis y Diseño
-En las actividades del análisis, se refinan y estructuran los casos de uso especificados. El propósito de las actividades del análisis es conseguir una comprensión más precisa de los requisitos, evitar redundancias e inconsistencias. En el análisis los requisitos se empiezan a traducir en funcionalidades del sistema y clases
+## 5 Conclusiones
+En esta sección, se presentan los resultados y hallazgos principales del estudio o investigación de manera resumida y concisa. Las conclusiones deben basarse en los datos y análisis presentados anteriormente en el trabajo, y deben responder a los objetivos y preguntas de investigación planteadas. Es importante que las conclusiones sean claras y estén respaldadas por evidencia sólida.
 
-### Análisis de la arquitectura
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22343642/233075604-dfb711bb-a84e-486c-b519-c609e1d73ba7.png" />
-</p>
-<div align="center">
-  <em>Diagrama de la arquitectura MVC</em>
-</div>
+## 5.1 Discusión de Resultados
+En esta sección, se analizan y se interpretan los resultados obtenidos en el estudio. Se pueden destacar los patrones, las tendencias y las relaciones entre las variables analizadas. Además, se comparan los resultados con investigaciones anteriores y se discuten las posibles explicaciones de los hallazgos. La discusión de resultados también puede incluir limitaciones y sesgos potenciales, así como sugerencias para investigaciones futuras.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22343642/233076401-e08a7baa-1f9e-4ec9-8df0-eab7e5e2b3a2.png" />
-</p>
-<div align="center">
-  <em>Diagrama de clases de MVC</em>
-</div>
+## 5.2 Recomendaciones
+En esta sección, se ofrecen sugerencias y orientaciones basadas en los resultados y conclusiones del estudio. Las recomendaciones pueden estar dirigidas a profesionales, investigadores o tomadores de decisiones que puedan beneficiarse de los hallazgos del estudio. Las recomendaciones deben ser prácticas, específicas y realistas, y pueden abordar aspectos como políticas, prácticas, intervenciones o futuras líneas de investigación.
 
-### Análisis de casos de uso
-Mediante los diagramas de colaboración se identifican las clases modelo, vista y controlador, esenciales para llevar a cabo el caso de uso concreto. Se identifican cuales son las responsabilidades más importantes de esas clases y mediante qué métodos se relacionan entre ellas
+## 5.3 Futuras Líneas de Actuación
+En esta sección, se presentan ideas y propuestas para futuras investigaciones o acciones relacionadas con el tema del estudio. Se pueden identificar preguntas adicionales que surgieron durante la investigación actual, áreas que necesitan más exploración o posibles mejoras en el diseño o metodología del estudio. Esta sección es importante para fomentar la continuidad de la investigación y el avance del conocimiento en el campo.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22343642/233089268-a49b67b2-0838-4ba0-a62d-6dee0f10bbc2.png" />
-</p>
-<div align="center">
-  <em>Diagrama de colaboración del caso de uso Login</em>
-</div>
+# 6. Referencias bibliográficas
+En esta sección, se enumeran todas las fuentes bibliográficas que se citaron a lo largo del trabajo. Esto incluye libros, artículos de revistas científicas, tesis, sitios web y cualquier otra fuente utilizada para respaldar los argumentos, afirmaciones o resultados presentados en el estudio. Las referencias bibliográficas se presentan siguiendo un formato de cita específico (como APA, MLA, etc.) para garantizar la correcta atribución de la información utilizada.
 
-### Análisis de clases
-Una vez analizados los casos de uso, lo siguiente es revisar los diagramas de colaboración obtenidos e ir localizando con qué clases se relaciona cada una de las clases y qué mensajes se lanzan entre ellas.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22343642/233092767-55950517-1e80-41bc-9b7d-ac031f1b32eb.png" />
-</p>
-<div align="center">
-  <em>Diagrama de clases de la clase LoginController y sus relaciones</em>
-</div>
-
-### Diseño de la arquitectura
-Los objetivos del diseño de la arquitectura son identificar clases arquitectónicas significativas de diseño, subsistemas específicos de la aplicación e identificar el software y las tecnologías en las que se va a apoyar. Este software pueden ser servidores, navegadores web o componentes software, entre otros.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22343642/233095433-436c3695-4b3d-4aa5-b129-3b66937a85af.png" />
-</p>
-<div align="center">
-  <em>Aplicación web multipágina, cliente y servidor esctructurado por capas</em>
-</div>
-
-#### Capa de presentación, Capa de negocio y Capa de datos
-* [Estructura MVC](https://user-images.githubusercontent.com/22343642/233102062-85cb6b2e-47b7-466f-b1ba-d77ac3b97bf7.png)
-* [Ejemplo de diagrama de paquetes](https://user-images.githubusercontent.com/22343642/233102671-107bc8a8-1537-4940-b878-dbbce6525578.png)
-
-### Diseñar casos de uso
+# 7. Anexos
+Los anexos son secciones adicionales que contienen información complementaria pero no esencial para el cuerpo principal del trabajo. Aquí se pueden incluir tablas, gráficos, diagramas, cuestionarios, transcripciones de entrevistas u otros materiales relevantes que apoyen y complementen la comprensión del estudio. Los anexos son opcionales y se utilizan para proporcionar detalles adicionales que no interrumpen la fluidez del texto principal.
 
 ***
-[Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d?pvs=4#0a1fbda23e2e4946ae7ae12bcd724a9d)
+[Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d?pvs=4#639e240d059742f18e5e23f296b70733)
 ***
